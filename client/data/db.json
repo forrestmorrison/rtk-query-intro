@@ -1136,19 +1136,13 @@
     },
     {
       "userId": 10,
-      "id": 198,
-      "title": "quis eius est sint explicabo",
-      "completed": true
-    },
-    {
-      "userId": 10,
       "id": 199,
       "title": "numquam repellendus a magnam",
       "completed": true
     },
     {
       "userId": 1,
-      "title": "new todo",
+      "title": "New Todo tho",
       "completed": false,
       "id": 200
     }
